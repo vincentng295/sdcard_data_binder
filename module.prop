@@ -1,0 +1,6 @@
+id=adoptsdbind
+name=Adoptable Storage AppData Binder
+version=v1.0.0
+versionCode=100
+author=HuskyDG @vincentng295
+description=The module designed to fix application broken paths when moved to Adoptable Storage.
